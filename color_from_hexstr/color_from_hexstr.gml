@@ -2,7 +2,7 @@
 
 
 function color_from_hex(str){
-	str = string_replace(str,"#","")
+	str = string_digits(str)
 	var r = real( @"0x"+string_char_at(str,1)+string_char_at(str,2) )
 	var g = real( @"0x"+string_char_at(str,3)+string_char_at(str,4) )
 	var b = real( @"0x"+string_char_at(str,5)+string_char_at(str,6) )	
