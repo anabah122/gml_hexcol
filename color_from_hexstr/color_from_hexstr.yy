@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"color_from_hexstr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"color_from_hexstr",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
